@@ -3,7 +3,7 @@
 [![torch](https://img.shields.io/badge/torch-1.6.0-orange?style=plastic)](https://pytorch.org/)
 [![opencv](https://img.shields.io/badge/opencv--python-4.4.0.44-brightgreen?style=plastic)](https://opencv.org/)
 
-The automatic dermatophyte identification algorithm is a work in progress in colaboration with Hospital General Dr. Manuel Gea González, México.
+The automatic dermatophyte identification algorithm is a work in progress in collaboration with Hospital General Dr. Manuel Gea González, México.
 
 ## Table of contents
 - [What is DermatophAIte?](#what-is-dermatophaite)
