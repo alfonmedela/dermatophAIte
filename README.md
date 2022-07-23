@@ -8,4 +8,4 @@ The automatic dermatophyte identification algorithm is a work in progress in col
 ![](https://www.afwgonline.com/wp-content/uploads/2017/12/Website_HeroImage_1366x492px_Deep.jpg)
 
 ## More studies
-[<img src="figures/Legit_Health_logo.png" width="500" height="70" />]([https://legit.health/](https://github.com/Legit-Health/ASCORAD/blob/master/figures/Legit_Health_logo.png))
+[<img src="figures/Legit_Health_logo.png" width="500" height="70" />](https://raw.githubusercontent.com/Legit-Health/ASCORAD/master/figures/Legit_Health_logo.png)
