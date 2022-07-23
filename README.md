@@ -1,2 +1,3 @@
-# dermatophAIte
-Dermatophyte identification using Deep Learning
+# DermatophAIte
+
+The automatic dermatophyte identification model is a work in progress.
