@@ -5,6 +5,14 @@
 
 The automatic dermatophyte identification algorithm is a work in progress in colaboration with Hospital General Dr. Manuel Gea González, México.
 
+## Table of contents
+- [What is ASCORAD?](#what-is-ascorad)
+- [Datasets](#datasets)
+- [Method](#method)
+- [Results](#results)
+- [The paper](#reference)
+- [More about dermatology and AI](#more-about-dermatology-and-ai)
+
 ![](https://www.afwgonline.com/wp-content/uploads/2017/12/Website_HeroImage_1366x492px_Deep.jpg)
 
 ## More about dermatology and AI
